@@ -1,21 +1,23 @@
 
-## Prometheus, 
-    - The metrics-based monitoring system used by tens of thousands of organizations in production. 
-    - application developers, sysadmins, and DevOps practitioners with a hands-on introduction to the most important aspects of Prometheus, 
-    - including dashboarding and alerting, direct code instrumentation, and metric collection from third-party systems with exporters.
+## Prometheus
 
-    - Prometheus does one thing, and it does it well. 
-    - Prometheus setup, the Node exporter, and the Alertmanager, then demonstrates how to use them for application and infrastructure monitoring.
+```
+    - The metrics-based monitoring system 
+    - including dashboarding and alerting, direct code instrumentation, and 
+      metric collection from third-party systems with exporters.
+    - Prometheus setup, the Node exporter, and the Alertmanager, 
+    - how to use them for application and infrastructure monitoring.
 
     - Know where and how much to apply instrumentation to your application code
     - Identify metrics with labels using unique key-value pairs
-    - Get an introduction to Grafana, a popular tool for building dashboards
-    - Learn how to use the Node Exporter to monitor your infrastructure
+    - Get an introduction to Grafana to build dashboards
+    - use the Node Exporter to monitor your infrastructure
     - Use service discovery to provide different views of your machines and services
     - Use Prometheus with Kubernetes and examine exporters you can use with containers
     - Convert data from other monitoring systems into the Prometheus format
 
-
+```
+```
 I. Introduction
                 1. What Is Prometheus?
                             What Is Monitoring?
